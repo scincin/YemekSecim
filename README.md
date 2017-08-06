@@ -1,2 +1,2 @@
 # YemekSecim
-Yemen secerken kararsiz mi kaldiniz
+Yemek seçerken karasız mı kaldınız?
